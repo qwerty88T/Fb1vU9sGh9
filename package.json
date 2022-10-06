@@ -1,0 +1,20 @@
+{
+  "name": "jJ8nZCzrqkmuS02",
+  "main": "./lib/jJ8nZCzrqkmuS02",
+  "version": "0.0.0",
+  "description": "live casino malaysia online casino malaysia",
+  "keywords": [
+    "online casino malaysia online casino malaysia",
+    "trusted online casino trusted online casino",
+    "bk8 live casino malaysia"
+  ],
+  "activationCommands": {
+    "atom-workspace": "jJ8nZCzrqkmuS02:toggle"
+  },
+  "repository": "https://github.com/qwerty88T/Fb1vU9sGh9.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
